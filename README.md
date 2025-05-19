@@ -1,6 +1,6 @@
 # EXPENSE_TRACKER
 
-Here’s a professional and engaging README.md file for your project, incorporating emojis to enhance clarity and presentation:
+
 
 
 ---
